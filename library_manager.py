@@ -1,6 +1,6 @@
 # library_manager.py
 # Basic Library Manager
-# Demonstrates variables, input/output, and basic calculations
+# Demonstrates variables, input/output, and basic calculation
 ###################################################################################################
 def add_book(books, title, author, year, genre, read_status):
     """Add a new book to the library"""
